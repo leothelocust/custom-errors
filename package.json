@@ -1,0 +1,8 @@
+{
+  "name": "custom-errors",
+  "description": "CustomError module to handle \"like\" errors throughout micro apis",
+  "version": "0.2.4",
+  "private": true,
+  "main": "./index.js",
+  "typings": "./lib/custom_errors.d.ts"
+}

@@ -1,0 +1,9 @@
+export declare function MissingRequestObject(message?: any): void;
+export declare function InvalidToken(message?: any): void;
+export declare function TokenNotFound(message?: any): void;
+export declare function TokenExpired(message?: any): void;
+export declare function UserNotFound(message?: any): void;
+export declare function ClientNotFound(message?: any): void;
+export declare function Unauthorized(message?: any): void;
+export declare function Validation(message?: any): void;
+export declare function Unknown(message?: any): void;
